@@ -1,0 +1,29 @@
+/*---------COMMON UTILITIES----*/
+.g-h-font {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.g-n-font {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*---------COMMON UTILITIES----*/
+
+/* ---HEADER---*/
+
+.ms-10 {
+    margin-left: 36rem;
+}
+
+.gx-7 {
+    --bs-gutter-x: 5rem;
+}
+
+.text-pro {
+    color: #4A4A4A;
+}
+
+/* ---HEADER---*/
