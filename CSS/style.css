@@ -1,4 +1,4 @@
-/*---------COMMON UTILITIES----*/
+/*------Font----*/
 .g-h-font {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -10,10 +10,25 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/*---------COMMON UTILITIES----*/
+/*-----Font----*/
 
-/* ---HEADER---*/
+/*------Color----*/
+.text-pro {
+    color: #4A4A4A;
+}
 
+.ash-color {
+    color: #777777;
+}
+
+.bg-screen {
+    background-color: #F4FAFD;
+}
+
+/*------Color----*/
+
+
+/* ---Margin---*/
 .ms-10 {
     margin-left: 36rem;
 }
@@ -22,17 +37,8 @@
     --bs-gutter-x: 5rem;
 }
 
-.text-pro {
-    color: #4A4A4A;
-}
-
-/* ---HEADER---*/
-
-/*--MAIN--*/
-/*--------------FIRST SECTION-------------*/
 .mt-7 {
     margin-top: 12rem;
 }
 
-/*--------------FIRST SECTION-------------*/
-/*--MAIN--*/
+/* ---Margin---*/
