@@ -35,13 +35,17 @@
 
 /*------Color----*/
 
+/*--------CUSTOMIZED HEIGHT AND WIDTH------*/
+.w-58 {
+    width: 58%;
+}
+
+/*--------CUSTOMIZED HEIGHT AND WIDTH------*/
 
 /* ---GAP---*/
 .ms-10 {
     margin-left: 36rem;
 }
-
-
 
 .gx-7 {
     --bs-gutter-x: 5rem;
